@@ -14,7 +14,7 @@ iobroker JavaScript zur Steuerung von Multiroom-Steuerung von Sonos Playern
 
 # Geplante Erweiterungen
 * Nachtschaltung
-* Sonerbahandlung bei Nacht und Abwesenheit
+* Sonderbahandlung bei Nacht und Abwesenheit
 
 # Beschreibung
 Sonos Multiroom Lautsprecher lassen sich zu Gruppen zusammenfügen um latenzfrei dieselben Inhalte abzuspielen.  
