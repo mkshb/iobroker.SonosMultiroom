@@ -3,9 +3,9 @@ iobroker JavaScript zur Steuerung von Multiroom-Steuerung von Sonos Playern
 
 # Beschreibung
 Sonos Multiroom Lautsprecher lassen sich zu Gruppen zusammenfügen um latenzfrei dieselben Inhalte abzuspielen.  
-Anwednungsbeispiel: Beim Betreten des Badezimmers automatisiert (Bewegungsmelder + Smartcontrol oder Szenen Adapter) das Licht eingeschaltet und der SONOS Player mit der Lieblingsplaylist gestartet. Zeitgleich betritt jemand die Küche in der dasselbe passiert.  
-Allerdings wird auf dem SONOS Player in der Küche nicht dieselbe Playlist noch einmal gestartet, sondern der dortige SONOS in mit dem im Badezimmer zu einer Gruppe zusammengefügt.  
-Wird im Badezimmer keine Bewegung mehr erkannt schalten sich Licht und SONOS automatisch aus. Das Skript erkennt dies und isoliert den SONOS Player im Badezimmer aus der Gruppe. Der Player in der Küche läuft jedoch weiter.  
+Anwendungsbeispiel: Beim Betreten des Badezimmers wird automatisiert (Bewegungsmelder + Smartcontrol oder Szenen Adapter) das Licht eingeschaltet und der SONOS Player mit der Lieblingsplaylist gestartet. Zeitgleich betritt jemand die Küche in der dasselbe passiert.  
+Allerdings wird auf dem SONOS Player in der Küche nicht dieselbe Playlist noch einmal gestartet, sondern der dortige SONOS automatisch mit dem im Badezimmer zu einer Gruppe zusammengefügt.  
+Wird im Badezimmer keine Bewegung mehr erkannt, schalten sich Licht und SONOS automatisch aus. Das Skript erkennt dies und entfernt den SONOS Player im Badezimmer aus der Gruppe. Der Player in der Küche läuft weiter.  
 
 # Voraussetzungen
 * Laufende und konfigurierte Sonos HTTP API (thanks to jishi https://github.com/jishi/node-sonos-http-api)
