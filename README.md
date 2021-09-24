@@ -24,7 +24,7 @@ Wird im Badezimmer keine Bewegung mehr erkannt schalten sich Licht und SONOS aut
 * Automatisches Anlegen von Datenpunkten
 
 # Datenpunkte
-Für jeden Sonos Player ist die Anlage eines Datenpunktes erforderlich. Dies kann an beliebiger Stelle erfolgen. Wichtig ist, dass der Name des Raumes mit dem Namen des SONOS Players in der SONOS App überinstimmt.
+Für jeden Sonos Player ist die Anlage eines Datenpunktes erforderlich. Dies kann an beliebiger Stelle erfolgen. Wichtig ist, dass der Name des Raumes mit dem Namen des SONOS Players in der SONOS App übereinstimmt.
 Beispiel Bad: 
 * 0_userdata.0.Sonos
 * 0_userdata.0.Sonos.Bad
