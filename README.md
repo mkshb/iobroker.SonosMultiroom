@@ -32,5 +32,5 @@ Beispiel Bad:
 
 Weiterhin wird ein Datenpunkt angelegt in dem die exakte Bezeichnung des SONOS Favoriten hinterlegt wird der gestartet wird, wenn kein Player läuft.
 
-* 0_userdata.0.Sonos.DefaultPlaylist
+* 0_userdata.0.Sonos.DefaultPlaylist 
 
