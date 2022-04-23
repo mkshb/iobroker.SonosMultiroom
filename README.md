@@ -20,7 +20,7 @@ Wird im Badezimmer keine Bewegung mehr erkannt, schalten sich Licht und SONOS au
 
 # Geplante Erweiterungen
 * Nachtschaltung
-* Sonerbahandlung bei Nacht und Abwesenheit
+* Sonderbahandlung bei Nacht und Abwesenheit
 * Automatisches Anlegen von Datenpunkten
 
 # Datenpunkte
